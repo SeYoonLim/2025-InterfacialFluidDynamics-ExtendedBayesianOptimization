@@ -7,5 +7,6 @@ Piezoelectric inkjet printing is a high-precision droplet ejection technology wi
   <img src="Schematicdiagram.jpg" alt="Schematic diagram" width="1000">
 </p>
 
-<p align="center"><strong>Fig 1. Schematic diagram of the Extended Bayesian optimization.</strong></p>
+<p align="center"><strong>Fig 1. Schematic diagram of the Extended Bayesian Optimization.</strong></p>
+
 
